@@ -3,3 +3,5 @@ Do something else
 1.
 2.
 3.
+
+Change made in 'Sample-Branch'
